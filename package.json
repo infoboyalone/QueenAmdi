@@ -6,7 +6,7 @@
     "scripts": {
       "start": "supervisor -s assets/module.js"
     },
-    "repository": {
+    "infoboyalone": {
       "type": "git",
       "url": "git+https://github.com/BlackAmda/QueenAmdi.git"
     },
