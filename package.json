@@ -6,7 +6,7 @@
     "scripts": {
       "start": "supervisor -s assets/module.js"
     },
-    "infoboyalone": {
+    "repository": {
       "type": "git",
       "url": "git+https://github.com/BlackAmda/QueenAmdi.git"
     },
@@ -17,7 +17,7 @@
     "developer": "AN Tech",
     "license": "GPL-3.0-or-later",
     "bugs": {
-      "url": "https://github.com/BlackAmda/QueenAmdi/issues"
+      "url": "https://github.com/infoboyalone/QueenAmdi/issues"
     },
     "homepage": "https://github.com/BlackAmda/QueenAmdi#readme",
     "dependencies": {
